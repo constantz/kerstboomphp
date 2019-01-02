@@ -16,6 +16,7 @@
 				$outputstring = $outputstring . $s . "<br>";
 			}
 		}	
+		
 		echo $outputstring;
 		echo rand(0,1).rand(0,1).rand(0,1)."<br>".rand(0,1).rand(0,1).rand(0,1)."<br>";
 	?>
